@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there 👋
+Peace to you! I'm Grant, a computer scientist and coding enthusiast from the 🇺🇸 USA.
+
+### About Me
+- ✍️ Self-taught coder from the age of 13
+- 🎓 B.S. in Computer Science
+- 📊 Over 3 years of hands-on experience as system administrator for Ivanti Service Manager
+- 📝 Proficient in Java, C, Python, SQL, HTML, CSS, JavaScript, and more ...
+
+### Contact Me
+📧 Email: grantsolomon3601@gmail.com
 
 <!--
 **gsolo2001/gsolo2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
